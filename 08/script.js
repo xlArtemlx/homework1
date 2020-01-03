@@ -1,3 +1,2 @@
 var username = "Artem"
-
-	console.log("Happy new year", username)
+ console.log("Happy new year", username)
