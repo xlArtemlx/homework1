@@ -4,9 +4,9 @@ var result = day === "saturday" || day === "sunday" ? console.log ("Спать!"
 
 
 var day = "thursday"
-if (day === "saturday" || day === "sunday") {
-console.log("Спать!!!")
-}
-else { 
-console.log("на работу!!!")
-}
+	if (day === "saturday" || day === "sunday") {
+	      console.log("Спать!!!")
+	}
+	else { 
+	      console.log("на работу!!!")
+	}
